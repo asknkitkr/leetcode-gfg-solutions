@@ -1,5 +1,5 @@
 // Time complexity: theta(N)
-// Space complexity: theta(N)
+// Space complexity: Big-Oh(N)
 
 #include <iostream>
 using namespace std;
